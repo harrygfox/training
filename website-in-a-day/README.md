@@ -1,4 +1,4 @@
-# Build a Responsive Website in a Day
+# Build Your Responsive Website in a Day
 
 Learn the tools you need to build and maintain a website that works on any device. 
 
