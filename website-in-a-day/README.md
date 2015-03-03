@@ -28,7 +28,7 @@ No experience necessary: just a laptop and an idea!
 - Your code may be fancy, your website may look beautiful, but if nobody, not even you can come back to it and make changes: you're a bloomin' liability.
 
 #### Don't Stop Learnin'
-- Push the boundaries of what's possible. Be creative: the only limitation is your own engenuity!
+- Push the boundaries of what's possible. Be creative: the only limitation is your own ingenuity!
 
 ## Introduction
 
@@ -65,18 +65,22 @@ The C in CSS reflects the importance of ordering your style declarations correct
 
 ## Responsive Design
 
-There is so much to be said for responsive web design it can make your head spin. Responsiveness is a fundamental ingredient in modern web design. Gone (well, gone soon) are the days of mobile sites for mobile devices and web sites for computers. Now, if your site doesn't work on as many devices as possible your site ain't shit, buddy!
+There is so much to be said for responsive web design it can make your head spin. Responsiveness is a fundamental ingredient in modern web design. Gone (well, gone soon) are the days of mobile sites for mobile devices and web sites for computers. Now, if your site doesn't work on as many devices as possible your site ain't sh*t, buddy!
 
-<a href="http://blog.froont.com/9-basic-principles-of-responsive-web-design/">This blog post from Froont</a> is a great place to start to get your head around what it means for a site to be responsive.
+<a href="http://blog.froont.com/9-basic-principles-of-responsive-web-design/" target="_blank">This blog post from Froont</a> is a great place to start to get your head around what it means for a site to be responsive.
+
+For our purposes we will be using the Twitter Bootstrap framework
 
 #### Frameworks
-- [Twitter Bootstrap](http://getbootstrap.com/getting-started/)
-- [Concise](http://concisecss.com/get-started/)
-- [Foundation](http://foundation.zurb.com/)
+- <a href="http://getbootstrap.com/getting-started/" target="_blank">Twitter Bootstrap</a>
+- <a href="http://concisecss.com/get-started/" target="_blank">Concise</a>
+- <a href="http://foundation.zurb.com/" target="_blank">Foundation</a>
 
 ## Development Environment and Publish
-- Atom Text Editor?
-- GitHub Client and push to a repository
+
+To take things to the next level you're going to need a way of writing code locally (on your machine and not on the web). We recommend <a href="https://atom.io/" target="_blank">Atom Text Editor</a>.
+
+Once you've migrated to local files, you'll need a place to host them. To get things from your machine to GitHub you can either use your command line or you can download the GitHub Client <a href="https://windows.github.com/" target="_blank">for Windows</a> and <a href="https://mac.github.com/" target="_blank">for Mac</a>.
 
 ## Customise and Personalise
 
