@@ -85,6 +85,7 @@ To take things to the next level you're going to need a way of writing code loca
 Once you've migrated to local files, you'll need a place to host them. To get things from your machine to GitHub you can either use your command line or you can download the GitHub Client <a href="https://windows.github.com/" target="_blank">for Windows</a> and <a href="https://mac.github.com/" target="_blank">for Mac</a>.
 
 ## Customise and Personalise
+- Pick a color theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
 
 ## Make it more better
 - Add in a responsive Bootstrap NavBar. See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-navbar" target="_blank">our snippet</a>.
