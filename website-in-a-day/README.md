@@ -34,6 +34,7 @@ No experience necessary: just a laptop and an idea!
 
 To begin with, and while our projects are relatively lo-tech, we will develop on a system called JSBin. JSBin is a website that makes websites: it allows you to write html, css, and javascript on an online environment that automatically combines the three and instantly updates the result. JSBin hosts all of your work with a unique URL meaning you can come back to a project anytime from any machine. 
 
+- Get a developer's browser - We strongly recommend either <a href="https://www.google.com/chrome/browser/desktop/" target="_blank">Google Chrome</a> or <a href="https://www.mozilla.org/en-GB/firefox/new/" target="_blank">Mozilla Firefox</a>.
 - <a href="https://github.com/join" target="_blank">Get a GitHub account</a> - We'll come back to this later, it's good to connect this to JSBin early. 
 - Open <a href="http://harrygfox.github.io/training/website-in-a-day/reference/" target="_blank">this reference page</a> and click through to your development environment.
 - Set up a JSBin account using your GitHub details and take ownership of the bin!
