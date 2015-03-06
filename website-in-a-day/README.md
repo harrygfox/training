@@ -87,3 +87,4 @@ Once you've migrated to local files, you'll need a place to host them. To get th
 ## Customise and Personalise
 
 ## Make it more better
+- Add in a responsive Bootstrap NavBar. See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/" target="_blank">our snippet</a>.
