@@ -74,6 +74,7 @@ For our purposes we will be using the Twitter Bootstrap framework
 
 #### Frameworks
 - <a href="http://getbootstrap.com/getting-started/" target="_blank">Twitter Bootstrap</a>
+  - Remember to include <a href="https://code.jquery.com/jquery-1.11.2.min.js" target="_blank">jQuery</a> (a javascript framework library) for bootstrap.js to work!
 - <a href="http://concisecss.com/get-started/" target="_blank">Concise</a>
 - <a href="http://foundation.zurb.com/" target="_blank">Foundation</a>
 
