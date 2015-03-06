@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+pre {
+    background-color: #CCC;
+    -webkit-box-shadow: inset 0px 0px 10px 5px rgba(0,0,0,0.45);
+    -moz-box-shadow: inset 0px 0px 10px 5px rgba(0,0,0,0.45);
+    box-shadow: inset 0px 0px 10px 5px rgba(0,0,0,0.45);
+
+}
