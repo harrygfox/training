@@ -88,4 +88,5 @@ Once you've migrated to local files, you'll need a place to host them. To get th
 - Pick a color theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
 
 ## Make it more better
+### <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/" target="_blank">Snippets</a>
 - Add in a responsive Bootstrap NavBar. See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-navbar" target="_blank">our snippet</a>.
