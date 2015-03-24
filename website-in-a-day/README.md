@@ -2,6 +2,8 @@
 
 Learn the tools you need to build and maintain a website that works on any device. 
 
+![responsive website](http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2014/07/03-many-devices-opt.jpg "Design for ALL THE DEVICES!")
+
 A website that works on any screen size is a must-have in modern website design. Using the Twitter Bootstrap framework to ensure maximum responsiveness, you'll learn the basics of HTML and CSS.
 
 From design to implementation, you'll leave this collaborative day of coding with a new set of skills, a new way of learning, and a brilliant new website. 
