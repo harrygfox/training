@@ -93,3 +93,6 @@ Once you've migrated to local files, you'll need a place to host them. To get th
 ### <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/" target="_blank">Snippets</a>
 - Add in a responsive Bootstrap NavBar. See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-navbar" target="_blank">our snippet</a>.
 - Image Carousel! See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-carousel" target="_blank">our snippet</a>.
+
+## [Please Provide Feedback here](https://harrygfox1.typeform.com/to/xDYuQw)
+#### Thank you!
