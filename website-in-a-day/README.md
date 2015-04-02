@@ -92,7 +92,9 @@ For our purposes we will be using the Twitter Bootstrap framework
   - <a href="http://jxnblk.com/colorable/demos/text/" target="_blank">Same here</a> for ensuring you have crisp and clear contrast in your colour choices.
 - *Get Inspired* for your design patterns at <a href="http://calltoidea.com/index.php" target="_blank">Call to Idea</a>
 - For the Graphic Designer in you: have a flick through these <a href="http://learndesignprinciples.com/" target="_blank">Design Principles</a> to inform your structure and layout.
+- 
 ### <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/" target="_blank">Snippets</a>
+Here are a bunch of code snippets that work on the Bootstrap framework to produce simple and fully responsive sections.
 - Add in a responsive Bootstrap NavBar. See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-navbar" target="_blank">our snippet</a>.
 - Image Carousel! See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-carousel" target="_blank">our snippet</a>.
 
