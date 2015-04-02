@@ -87,7 +87,7 @@ To take things to the next level you're going to need a way of writing code loca
 Once you've migrated to local files, you'll need a place to host them. To get things from your machine to GitHub you can either use your command line or you can download the GitHub Client <a href="https://windows.github.com/" target="_blank">for Windows</a> and <a href="https://mac.github.com/" target="_blank">for Mac</a>.
 
 ## Customise and Personalise
-- Pick a color theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
+- Pick a colour theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
   - Ensure your colour themes are accessible with <a href="http://colorsafe.co/" target="_blank">ColorSafe</a>
   - <a href="http://jxnblk.com/colorable/demos/text/" target="_blank">Same here</a> for ensuring you have crisp and clear contrast in your colour choices.
 - *Get Inspired* for your design patterns at <a href="http://calltoidea.com/index.php" target="_blank">Call to Idea</a>
