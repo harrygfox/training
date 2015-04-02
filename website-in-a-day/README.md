@@ -89,6 +89,7 @@ Once you've migrated to local files, you'll need a place to host them. To get th
 ## Customise and Personalise
 - Pick a color theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
   - Ensure your colour themes are accessible with <a href="http://colorsafe.co/" target="_blank">ColorSafe</a>
+  - <a href="http://jxnblk.com/colorable/demos/text/" target="_blank">Same here</a> for ensuring you have crisp and clear contrast in your colour choices.
 
 ## Make it more better
 ### <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/" target="_blank">Snippets</a>
