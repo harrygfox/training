@@ -19,8 +19,8 @@ No experience necessary: just a laptop and an idea!
 1. [Basic Principles of Web Development](#basics)
 2. [HTML](#html)
 3. [CSS](#css)
-4. [Responsive Design](#responsive-design)
-5. [Environment and Publish](#development-environment-and-publish)
+4. [Environment and Publish](#development-environment-and-publish)
+5. [Responsive Design](#responsive-design)
 6. [Make it Better!](#customise-and-personalise)
 
 ## Basics
@@ -69,6 +69,12 @@ The C in CSS reflects the importance of ordering your style declarations correct
 - <a href="https://developer.mozilla.org/en-US/Learn/CSS/Basic_text_styling_in_CSS" target="_blank">Text-styling with Mozilla</a>
 - An amazing and totally comprehensive <a href="http://tympanus.net/codrops/css_reference/" target="_blank">CSS Reference</a>
 
+## Development Environment and Publish
+
+To take things to the next level you're going to need a way of writing code locally (on your machine and not on the web). We recommend <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>.
+
+Once you've migrated to local files, you'll need a place to host them. To get things from your machine to GitHub you can either use your command line or you can download the GitHub Client <a href="https://windows.github.com/" target="_blank">for Windows</a> and <a href="https://mac.github.com/" target="_blank">for Mac</a>.
+
 ## Responsive Design
 
 There is so much to be said for responsive web design it can make your head spin. Responsiveness is a fundamental ingredient in modern web design. Gone (well, gone soon) are the days of mobile sites for mobile devices and web sites for computers. Now, if your site doesn't work on as many devices as possible your site ain't sh*t, buddy!
@@ -83,16 +89,17 @@ For our purposes we will be using the Twitter Bootstrap framework
 - <a href="http://concisecss.com/get-started/" target="_blank">Concise</a>
 - <a href="http://foundation.zurb.com/" target="_blank">Foundation</a>
 
-## Development Environment and Publish
+## Customise, Personalise and Make it Better!
+- Pick a colour theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
+  - Ensure your colour themes are accessible with <a href="http://colorsafe.co/" target="_blank">ColorSafe</a>
+  - <a href="http://jxnblk.com/colorable/demos/text/" target="_blank">Same here</a> for ensuring you have crisp and clear contrast in your colour choices.
+- *Get Inspired* for your design patterns at <a href="http://calltoidea.com/index.php" target="_blank">Call to Idea</a>.
+- For the Graphic Designer in you: have a flick through these <a href="http://learndesignprinciples.com/" target="_blank">Design Principles</a> to inform your structure and layout.
 
-To take things to the next level you're going to need a way of writing code locally (on your machine and not on the web). We recommend <a href="https://atom.io/" target="_blank">Atom Text Editor</a>.
-
-Once you've migrated to local files, you'll need a place to host them. To get things from your machine to GitHub you can either use your command line or you can download the GitHub Client <a href="https://windows.github.com/" target="_blank">for Windows</a> and <a href="https://mac.github.com/" target="_blank">for Mac</a>.
-
-## Customise and Personalise
-- Pick a color theme with <a href="http://coolors.co/" target="_blank">Coolors</a>.
-
-## Make it more better
 ### <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/" target="_blank">Snippets</a>
+Here are a bunch of code snippets that work on the Bootstrap framework to produce simple and fully responsive sections.
 - Add in a responsive Bootstrap NavBar. See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-navbar" target="_blank">our snippet</a>.
 - Image Carousel! See <a href="http://harrygfox.github.io/training/website-in-a-day/snippets/#bs-carousel" target="_blank">our snippet</a>.
+
+## [Please Provide Feedback here](https://harrygfox1.typeform.com/to/xDYuQw)
+#### Thank you!

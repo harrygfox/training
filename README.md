@@ -1,6 +1,10 @@
-# Founders and Coders Training
+# Training Workshops Directory
 
-This will be a starting point for everyone interested in running a training workshop. 
+Choose the folder to the workshop resources from the list above.
+
+## Founders and Coders Training
+
+A starting point for everyone interested in running a training workshop. 
 
 All resources used in training exercises must be accompanied with a detailed README and instructions for use. 
 
