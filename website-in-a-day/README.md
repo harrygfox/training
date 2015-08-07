@@ -2,7 +2,10 @@
 
 Learn the tools you need to build and maintain a website that works on any device. 
 
-![responsive website](resources/img/all-devices.jpg "Design for ALL THE DEVICES!")
+<img src="resources/img/all-devices.jpg" 
+     alt="Design for ALL THE DEVICES!"
+     style="display:block; max-width: 100%; margin:auto;">
+
 
 A website that works on any screen size is a must-have in modern website design. Using the Twitter Bootstrap framework to ensure maximum responsiveness, you'll learn the basics of HTML and CSS.
 
